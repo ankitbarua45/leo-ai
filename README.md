@@ -87,4 +87,5 @@ GEMINI_API_KEY=your-gemini-api-key-here
 node server.js
 
 
+![Screenshot (150)](https://github.com/user-attachments/assets/08753b9a-4413-4f96-ade8-3486d996896f)
 
