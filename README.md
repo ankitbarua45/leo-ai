@@ -46,8 +46,10 @@ leo-ai/
 
 ---
 
-## 🧑‍💻 How to Run
+## 📸 Screenshots
+
 ![Screenshot (150)](https://github.com/user-attachments/assets/e29151ec-61ed-4ea4-a5af-5bb4542b51be)
+
 ### ✅ Without Backend
 
 1. Clone the repo:
