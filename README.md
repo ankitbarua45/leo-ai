@@ -41,7 +41,7 @@ leo-ai/
 
 - **Frontend:** HTML, CSS, JavaScript  
 - **Voice API:** Web Speech API  
-- **Backend (Optional):** Node.js for system-level functionality  
+- **Backend:** Node.js for system-level functionality  
 - **External APIs:** Google Search, Wikipedia, Gemini (for AI responses)  
 
 ---
