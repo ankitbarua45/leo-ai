@@ -17,14 +17,20 @@
 ## 📁 Project Structure
 
 ```
-
 leo-ai/
-├── index.html      # Main user interface
-├── style.css       # Page styling
-├── app.js          # Voice assistant logic
-├── server.js       # (Optional) Node.js backend for system-level access
-├── .env            # API keys and environment variables
-└── README.md       # Project documentation
+├── logs/                   # Log files (optional)
+├── node_modules/           # Installed npm packages
+├── public/                 # Frontend files
+│   ├── index.html          # Main UI layout
+│   ├── main.js             # Frontend logic (e.g. login, assistant)
+│   ├── style.css           # Styling
+│   └── voice1.mp4          # Media asset
+├── .env                    # API keys and environment variables
+├── demo.exe                # Compiled desktop app (optional)
+├── package.json            # Project config and dependencies
+├── package-lock.json       # Dependency lock file
+└── server.js               # Node.js backend for system-level access
+
 
 ````
 
