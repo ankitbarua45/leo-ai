@@ -195,8 +195,8 @@ document.addEventListener("DOMContentLoaded", function () {
         recognition.stop();
 
         const listeningMsg = getSelectedLanguage() === "hi-IN"
-          ? "हां अंकित"
-          : "Yes Ankit";
+          ? "हां "
+          : "Yes";
         speak(listeningMsg);
         startCommandRecognition();
 
