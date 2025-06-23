@@ -46,21 +46,12 @@ leo-ai/
 To enable system-level control, internet search, and API integration (like Gemini), follow these steps:
 
 🔧 1. Install Dependencies
-bash
-Copy
-Edit
 npm install
+
 🔐 2. Create a .env File
 In the root directory, create a file named .env and add your API keys. Example:
-
-env
-Copy
-Edit
 GEMINI_API_KEY=your-gemini-api-key-here
 You can include other keys like OpenAI, Google, or Firebase if you're using those services.
 
 🚀 3. Start the Server
-bash
-Copy
-Edit
 node server.js
