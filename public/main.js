@@ -24,7 +24,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const username = usernameInput.value.trim();
     const password = passwordInput.value.trim();
 
-    if (username === "ankit" && password === "@123") {
+    if (username === "admin" && password === "@123") {
       sessionStorage.setItem("loggedIn", "true");
       errorMessage.textContent = "";
       checkLogin();
