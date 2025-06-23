@@ -1,6 +1,5 @@
 
-# 🤖 ![Screenshot (150)](https://github.com/user-attachments/assets/e29151ec-61ed-4ea4-a5af-5bb4542b51be)
-Leo AI Assistant
+# 🤖Leo AI Assistant
 
 **Leo AI** is a fully voice-controlled virtual assistant built using **HTML, CSS, and JavaScript**, designed for browsers and future desktop integration. It supports real-time speech recognition, web search, voice responses, and various utility functions.
 
@@ -48,7 +47,7 @@ leo-ai/
 ---
 
 ## 🧑‍💻 How to Run
-
+![Screenshot (150)](https://github.com/user-attachments/assets/e29151ec-61ed-4ea4-a5af-5bb4542b51be)
 ### ✅ Without Backend
 
 1. Clone the repo:
