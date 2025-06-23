@@ -10,7 +10,8 @@
 - 🎙️ Voice recognition  
 - 🔊 Hotword detection  
 - 🗣️ Speech synthesis responses  
-- 🌐 Google/Wikipedia fallback  
+- 🌐 Google/Wikipedia fallback
+- more work 
 
 ---
 
