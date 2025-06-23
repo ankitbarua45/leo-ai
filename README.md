@@ -128,6 +128,6 @@ Powered by Google Gemini, Web Speech API, and open web technologies.
 ## 📄 License
 
 MIT License.  
-Copyright © 2024 Ankit Barua
+Copyright © 2025 Ankit Barua
 
 ---
